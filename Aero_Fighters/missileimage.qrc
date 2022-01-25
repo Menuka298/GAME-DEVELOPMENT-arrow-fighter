@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/MissileImage">
+        <file>MissileFired.png</file>
+    </qresource>
+</RCC>

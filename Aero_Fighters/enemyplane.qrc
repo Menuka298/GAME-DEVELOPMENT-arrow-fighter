@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Enemy">
+        <file>Airplane_Five.png</file>
+    </qresource>
+</RCC>

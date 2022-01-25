@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Missile">
+        <file>free-vector-rocket_101788_Rocket.png</file>
+    </qresource>
+</RCC>

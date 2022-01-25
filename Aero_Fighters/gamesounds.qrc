@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/Sounds">
+        <file>Backg.mp3</file>
+        <file>Bomb-SoundBible.com-891110113.mp3</file>
+        <file>Sound2.mp3</file>
+    </qresource>
+    <qresource prefix="/Images">
+        <file>33951802-fighter-plane5.png</file>
+        <file>bf741fe8c994b43fe41845606c743130.jpg</file>
+        <file>c317ded65d55208f5a46343cc79c09f3.jpg</file>
+        <file>clouds_sky_art_sunset_elevation_landscape_86905_1366x768.jpg</file>
+        <file>dc1c2d178db73b0251fe84bf5e039d77 (1).jpg</file>
+        <file>free-vector-rocket_101788_Rocket.png</file>
+        <file>IMG_515648.jpg</file>
+        <file>military-jet-icon-cartoon-style-vector-11943612.jpg</file>
+        <file>rocket-146109_960_720.png</file>
+        <file>sky-wallpapers-background-For-Desktop-Wallpaper.jpg</file>
+        <file>Splash.jpg</file>
+        <file>thumb-1920-343137.jpg</file>
+    </qresource>
+</RCC>

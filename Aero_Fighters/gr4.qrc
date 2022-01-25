@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Enemy">
+        <file>dc1c2d178db73b0251fe84bf5e039d77 (1).jpg</file>
+        <file>top.png</file>
+        <file>fighter-plane-vector-illustration_7ycksG_thumb.jpg</file>
+    </qresource>
+</RCC>
